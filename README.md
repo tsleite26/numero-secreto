@@ -1,7 +1,4 @@
 ﻿# numero-secreto
 
-Testing
-
-Testing 2
-
-Testing 3
+Esse repositório, é um teste de laboratório.
+Tiago
